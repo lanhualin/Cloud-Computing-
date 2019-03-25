@@ -26,4 +26,4 @@ node2 就只是计算节点
 #### 2)域名解析和关闭防火墙
 #### 3)安装配置 OpenStack
 #### 官方文档 http://docs.openstack.org/
- 
+#### 学习参考博客 https://www.cnblogs.com/kevingrace/p/5707003.html
