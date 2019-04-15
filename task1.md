@@ -32,4 +32,4 @@ node2 就只是计算节点
 ip地址：
 ![avatar](https://github.com/lanhualin/Cloud-Computing-/blob/master/task1%E6%88%AA%E5%9B%BE/ip.png?raw=true)
 dashboard界面：
-![avatar(https://github.com/lanhualin/Cloud-Computing-/blob/master/task1%E6%88%AA%E5%9B%BE/task1%E9%83%A8%E7%BD%B2.png?raw=true)]
+![avatar](https://github.com/lanhualin/Cloud-Computing-/blob/master/task1%E6%88%AA%E5%9B%BE/task1%E9%83%A8%E7%BD%B2.png?raw=true)
